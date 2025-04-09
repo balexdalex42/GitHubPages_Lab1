@@ -26,11 +26,11 @@ Here are some programming languages I know:
 - [x] Go to the Beach
 - [x] Join the Ice Hockey Team
 - [x] Go to Tacos El Gordo (in Chula Vista)
-- [] Join a Research Lab
-- [] Take an interesting Graduate-Level CS class
-- [] Make a nice physics simluation project (C++) by the summer
+- [ ] Join a Research Lab
+- [ ] Take an interesting Graduate-Level CS class
+- [ ] Make a nice physics simluation project (C++) by the summer
 ## Here are my favorite foods (ranked)
-1. [Khrovats](https://en.wikipedia.org/wiki/Khorovats)(Basically just shish-kebab, but Armenian :armenian_flag:)
+1. [Khrovats](https://en.wikipedia.org/wiki/Khorovats) (Basically just shish-kebab, but Armenian :armenian_flag:)
 2. Neapolitan Pizza
 3. Tacos de Adobada
 4. Ramen
