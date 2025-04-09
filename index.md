@@ -29,6 +29,7 @@ int main()
 ## How It's Going
 :skull: :skull: :skull:\
 Yeah... It isn't going so good...
+I'm just kidding I feel like I grew so much these couple of years. Having such great professors at both PCC and UCSD, I look back at my freshman year self and realize how much simpler I thought everything was. I now realize that all the classes I took made understand how much stuff there is out there that I do not know, and how it is not possible to know all there is to know in this field!
 ## Academic Interests
 I am very interested in getting into the research field of Computer Science. This was prompted by a super fun class I took over the Winter 2025 quarter (CSE 140), which made me opened my eyes to a new world outside of software and algorithms. On my free time, I am planning on gaining a more in-depth understanding of digital logic, computer architecture, and hopefully doing mini-RTL design project in SystemVerilog. I am actually very excited for CSE 110, because I have absolutely no background in Software Engineering, web client laguages, or frameworks. I am always really interested in gaining knowledge in areas I don't have much experience in, hopefully making me a more well-rounded student and computer scientist!
 ## Programming Languages
